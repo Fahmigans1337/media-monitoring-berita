@@ -1,0 +1,11 @@
+{
+    "name": "ebdesk/login-clone-railway",
+    "description": "Aplikasi login sederhana berbasis CodeIgniter 4 yang siap di-deploy ke Railway.",
+    "type": "project",
+    "require": {
+        "php": ">=8.1",
+        "codeigniter4/framework": "^4"
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
